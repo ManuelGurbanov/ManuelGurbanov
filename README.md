@@ -1,16 +1,21 @@
-## Hi there 👋
+Estudiante de Ciencias de la Computación en la Universidad de Buenos Aires.
 
-<!--
-**ManuelGurbanov/ManuelGurbanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
 
-Here are some ideas to get you started:
+- 📚 Estudiante de segundo año
+- 💼 Portfolio: https://portfolio-manuel-gurbanov.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+### Frontend
+- React
+- Tailwind CSS
+- Bootstrap
+- Vite
+
+### Backend
+- Django
+- Google Firebase
+
+---
+
